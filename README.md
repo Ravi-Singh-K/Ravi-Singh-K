@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Aayulogic**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django / REST Framework**
 
 - 👯 I’m looking to collaborate on **open source project**
 
